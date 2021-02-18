@@ -1,6 +1,6 @@
 name: 'my first container action'
 description: 'usedaforce learning'
-author: 'J. Rivas'
+author: 'Jose Rivas'
 inputs:
   myInput:
     description: 'greeting to use'
